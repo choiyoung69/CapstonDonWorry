@@ -8,7 +8,15 @@
 - 양극적 소비 특성을 반영하여 한달 목표 금액을 도입
 
 ## 팀원 구성
+<div align="center">
 
+| **최서영** | **고예림** | **송원진** |
+| :------: |  :------: | :------: |
+| [<img src="c:\Users\young\OneDrive\바탕 화면\임\서영.jpg" height=150 width=150> <br/> @choiyoung69](https://github.com/choiyoung69) | [<img src="c:\Users\young\OneDrive\바탕 화면\임\예림.jpg" height=150 width=150> <br/> @rretjin](https://github.com/rretjin) | [<img src="c:\Users\young\OneDrive\바탕 화면\임\원진.jpg" height=150 width=150> <br/> @woo222](https://github.com/woo222) | 
+
+</div>
+
+<br>
 
 ## 1. 개발 환경
 
